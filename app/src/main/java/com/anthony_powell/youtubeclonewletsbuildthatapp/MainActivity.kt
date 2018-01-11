@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
 //        recyclerView_main.setBackgroundColor(Color.BLACK)
         recyclerView_main.layoutManager = LinearLayoutManager(this)
         recyclerView_main.adapter = MainAdapter()
+
+        DataService.fetchData()
     }
 }

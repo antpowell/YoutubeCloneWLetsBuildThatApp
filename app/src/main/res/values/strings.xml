@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">YoutubeCloneWLetsBuildThatApp</string>
+    <string name="marvel_pub">e0d90ef687bc7f644df05b8a4870354e</string>
+    <string name="marvel_pri">eb9108f99712e3155b7fa1cafc57520acefbad7d</string>
 </resources>
